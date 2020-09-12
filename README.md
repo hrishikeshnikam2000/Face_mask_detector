@@ -11,4 +11,4 @@ I have kept example-image-2 as ADRAIN'S IMAGE , ADRAIN is a great teacher and hi
 This is A face mask detector project and it detects wheather or not the person in front of the camera is wearing a mask or not.
 
 
-Makes use of CMAKE , OPENCV2, FACE_RECEGNITION libraries
+Makes use of TENSORFLOW, KERAS , OPENCV2, FACE_RECEGNITION and NUMPY libraries.
