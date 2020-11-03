@@ -1,4 +1,3 @@
-# USAGE
 # python detect_mask_video.py
 
 # import the necessary packages
